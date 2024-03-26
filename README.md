@@ -18,7 +18,6 @@
 <a href="https://linkedin.com/in/mohmad-yaqoob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohmad-yaqoob" height="30" width="40" /></a>
 <a href="https://fb.com/yaqoob_gmt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yaqoob_gmt" height="30" width="40" /></a>
 <a href="https://instagram.com/yaqoob_gmt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaqoob_gmt" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<mohmadd094>/yaqoob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<mohmadd094>/yaqoob" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
