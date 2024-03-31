@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/yaqoobgmt" target="blank"><img src="https://img.shields.io/twitter/follow/yaqoobgmt?logo=twitter&style=for-the-badge" alt="yaqoobgmt" /></a> </p>
 
-- 🔭 I’m currently working on [Homely Hub](https://github.com/Mohmad-Yaqoob/HomelyHub)
+- 🔭 I’m currently working on [Homely Hub](https://github.com/Mohmad-Yaqoob/HomeLy-Hub)
 
 - 📫 How to reach me **yaqoobgmt26@gmail.com**
 
