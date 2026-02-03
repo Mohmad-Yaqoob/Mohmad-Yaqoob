@@ -58,6 +58,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mohmad-Yaqoob/Mohmad-Yaqoob/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ### 📊 GitHub Stats  
 <p align="center">
